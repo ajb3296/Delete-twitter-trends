@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Delete twitter trends",
     "short_name": "Delete Twitter trends",
-    "version": "1.0",
+    "version": "1.1",
     "description": "Remove Twitter trends, which only shows offensive words. 쓰레기밖에 없는 트위터 실시간 트렌드를 제거합니다.",
     "author": "ajb3296",
     "homepage_url": "https://github.com/ajb3296/Delete-twitter-trends",

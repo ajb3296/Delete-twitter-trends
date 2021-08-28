@@ -6,6 +6,6 @@ a[href="/i/trends"] {
     display: none;
 }
 
-div[aria-label*="Trending"], div[aria-label*="트렌드"], div[aria-label*="トレンド"], div[aria-label*="Timeline"] {
+div[aria-label*="Trending"], div[aria-label*="트렌드"], div[aria-label*="トレンド"] {
     display: none;
 }

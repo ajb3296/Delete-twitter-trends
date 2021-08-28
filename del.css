@@ -1,7 +1,3 @@
-.css-1dbjc4n.r-x572qd.r-1d6w8o1.r-1867qdf.r-1phboty.r-rs99b7.r-1ifxtd0.r-1udh08x > div {
-    display: none;
-}
-
 div[data-testid="trend"] {
     display: none;
 }
@@ -10,6 +6,6 @@ a[href="/i/trends"] {
     display: none;
 }
 
-div.css-1dbjc4n.r-1adg3ll.r-1ny4l3l:nth-child(1) > div.css-1dbjc4n.r-1wtj0ep.r-ymttw5.r-1f1sjgu {
+div[aria-label*="Trending"], div[aria-label*="트렌드"], div[aria-label*="トレンド"], div[aria-label*="Timeline"] {
     display: none;
 }

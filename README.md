@@ -2,6 +2,7 @@
 
 This Chrome/Firefox plugin deletes Twitter trends, such as trash.
 
+## How to install?
 ### If you use Chrome
 Connect to `chrome://extensions` --> click `Load unpacked` --> select `chrome` folder
 

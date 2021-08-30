@@ -1,6 +1,6 @@
 # Delete-twitter-trends
 
-This Chrome plugin deletes Twitter trends, such as trash.
+This Chrome/Firefox plugin deletes Twitter trends, such as trash.
 
 ### If you use Chrome
 Connect to `chrome://extensions` --> click `Load unpacked` --> select `chrome` folder

@@ -10,5 +10,5 @@ Connect to `chrome://extensions` --> click `Load unpacked` --> select `chrome` f
 * Connect to [Firefox Add-on](https://addons.mozilla.org/ko/firefox/addon/delete-twitter-trends/) and click `Add to Firefox`
 * Connect to `about:debugging#/runtime/this-firefox` --> click `Load Temporary Add-on...` --> select `firefox/manifest.json` (This method is disposable)
 
-### Screenshot
+## Screenshot
 ![screenshot](screenshot.png)
